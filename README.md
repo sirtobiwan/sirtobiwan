@@ -2,7 +2,17 @@
 
 My name is Tobi, I'm from Germany and I used to live in Malta. I am curious about **web development** and started a bootcamp at _NeueFische_ to become a web developer.`
 
+Following skills will be known:
+
+- Github
+- HTML
+- CSS
+- JavaScript
+- REACT
+
+
 ![click here](https://media.giphy.com/media/sITRGriEEEnL2/giphy.gif?cid=ecf05e47m5s7hxlzzxg8xx4se9bnadevxl0m6112qi4xda7k&rid=giphy.gif&ct=g)
+
 
 My hobbies are:
 
