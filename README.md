@@ -27,7 +27,7 @@ My hobbies are:
 
 
 
-#### Thank you for visiting my profile. 
-
 #### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{sirtobiwan}/count.svg)
+
+#### Thank you for visiting my profile. 🙃
