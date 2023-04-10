@@ -9,6 +9,7 @@ Following skills will be known:
 - CSS
 - JavaScript
 - REACT
+- Next.js
 
 
 ![click here](https://media.giphy.com/media/sITRGriEEEnL2/giphy.gif?cid=ecf05e47m5s7hxlzzxg8xx4se9bnadevxl0m6112qi4xda7k&rid=giphy.gif&ct=g)
