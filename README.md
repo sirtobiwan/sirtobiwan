@@ -1,8 +1,8 @@
 # Hello and welcome 🙌
 
-My name is Tobi, I'm from Germany and I used to live in Malta. I am curious about **web development** and started a bootcamp at _NeueFische_ to become a web developer.`
+My name is Tobi, I'm from Germany and I used to live in Malta. I am curious about **web development** and started a bootcamp at _NeueFische_ to become a web developer.
 
-Following you will find my skills
+`Following you will find my skills:`
 
 - HTML
 - CSS
