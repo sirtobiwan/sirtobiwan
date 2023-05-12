@@ -1,6 +1,6 @@
 # Hello and welcome 🙌
 
-My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitalization industrie 4.0 made me aware of how important **web development** and digital technologies are in our society. As a result, I decided to deepen my knowledge in the field of web development and to participate in the development of future-oriented digital solutions.
+My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitalization industrie 4.0 made me aware of how important 'web development' and 'digital technologies' are in our society. As a result, I decided to deepen my knowledge in the field of web development and to participate in the development of future-oriented digital solutions.
 
 `Following you will find my skills:`
 
@@ -24,7 +24,7 @@ My hobbies are:
 - kite surfing
 - football
 
-`On the weekend, I enjoy watching my favourite football team. Guess who it is:`
+`At weekends, I enjoy watching my favourite football team. Guess who it is:`
 
 ## [click here](https://media.giphy.com/media/VGbGAxgDHpk0kWuNso/giphy.gif?cid=ecf05e47oky1h1jr9pv0w9cdyyx7i5zmmpma9nnvnn1l9ko5&rid=giphy.gif&ct=g)
 
