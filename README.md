@@ -1,6 +1,6 @@
 # Hello and welcome 🙌
 
-My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitalization industry 4.0 made me aware of how important _web development_ and _digital technologies_ are in our society. As a result, I decided to deepen my knowledge in the field of web development and to participate in the growth of future-oriented digital solutions.
+My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitalization industry 4.0 made me aware of how important _software development_ and _digital technologies_ are in our society. As a result, I decided to deepen my knowledge in the field of software development and to participate in the growth of future-oriented digital solutions.
 
 `Following you will find my skills:`
 
@@ -12,6 +12,7 @@ My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitali
 - MongoDB
 - Jest.js
 - GIT
+- Java
 
 
 ![click here](https://media.giphy.com/media/sITRGriEEEnL2/giphy.gif?cid=ecf05e47m5s7hxlzzxg8xx4se9bnadevxl0m6112qi4xda7k&rid=giphy.gif&ct=g)
