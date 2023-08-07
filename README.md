@@ -16,8 +16,10 @@ My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitali
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=Typescript%2CTypescript%2C4e7dd1%3BREACT%2CREACT%2C09eef6%3BNEXT.JS%2CNEXT.JS%2C615656%3BMONGODB%2CMONGODB%2C98de6b%3BSPRING%2CSPRING%2C17e97a%3BJAVASCRIPT%2CJAVASCRIPT%2Cf9f203%3BDOCKER%2CDOCKER%2C05e6f7%3BJAVA%2CJAVA%2Cf78d06%3BSPRING%2CSPRING%2C17e97a%3BJAVASCRIPT%2CJAVASCRIPT%2Cf9f203%3BDOCKER%2CDOCKER%2C05e6f7%3BJAVA%2CJAVA%2Cf6a703%3BSPRING%2CSPRING%2C17e97a%3BJAVASCRIPT%2CJAVASCRIPT%2Cf9f203%3BDOCKER%2CDOCKER%2C05e6f7%3BJAVA%2CJAVA%2Cf6a703%3)
 
-:gear: *My Tech-Stack** :gear:
 
+
+|  :gear: *My Tech-Stack** :gear:|
+| ----------- |
 | HTML        |
 | CSS         |
 | JavaScript  |
@@ -27,6 +29,7 @@ My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitali
 | Jest.js     |
 | GIT         |
 | Java        |
+
 
 
 ![click here](https://media.giphy.com/media/sITRGriEEEnL2/giphy.gif?cid=ecf05e47m5s7hxlzzxg8xx4se9bnadevxl0m6112qi4xda7k&rid=giphy.gif&ct=g)
