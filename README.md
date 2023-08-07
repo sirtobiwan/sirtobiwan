@@ -18,7 +18,6 @@ My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitali
 
 :gear: **Mein Tech-Stack** :gear:
 
-```diff
 + HTML
 + CSS
 + JavaScript
