@@ -20,8 +20,11 @@ My name is Tobi, I'm from Germany and I used to live in Malta. Studying digitali
 
 |  :gear: *My Tech-Stack** :gear:|
 | ----------- |
-| HTML        |
-| CSS         |
+| ![HTML Icon](![HTML Icon](url-to-html-icon) HTML
+) HTML
+
+      |
+| [CSS   ](https://camo.githubusercontent.com/2d01ef8672b04c7f6d9f6b7558f1403a530a60c0da7315a39a5d819c4ec8edde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333234393645442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)      |
 | JavaScript  |
 | REACT       |
 | Next.js     |
